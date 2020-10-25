@@ -136,3 +136,12 @@ padding-top: 20px;
 color: white;
 font-family: titillium web;
 }
+
+.email {
+font-size: 25px !important;
+visibility: visible
+text-align:center;
+padding-top: 20px;
+color: white;
+font-family: titillium web;
+}
