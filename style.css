@@ -118,3 +118,8 @@ lesshat-selector {
 [not-existing] {
   zoom: 1;
 }
+
+h1 {
+font-size: 24px !important;
+display: inline-block !important;
+}
